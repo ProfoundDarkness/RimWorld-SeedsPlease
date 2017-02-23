@@ -9,6 +9,7 @@ namespace SeedsPlease
 	public static class LocalJobDefOf
 	{
 		public static JobDef SowWithSeeds;
+		public static JobDef ClearPreSow;
 	}
 }
 

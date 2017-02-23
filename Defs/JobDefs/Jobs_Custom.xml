@@ -10,5 +10,11 @@
         <driverClass>SeedsPlease.JobDriver_PlantHarvestWithSeeds</driverClass>
         <reportString>Harvesting TargetA.</reportString>
     </JobDef>
+	
+	<JobDef>
+		<defName>ClearPreSow</defName>
+		<driverClass>SeedsPlease.JobDriver_PlantClearPreSow</driverClass>
+		<reportString>Clearing TargetAZone of TargetA.</reportString>
+	</JobDef>
 
 </JobDefs>
